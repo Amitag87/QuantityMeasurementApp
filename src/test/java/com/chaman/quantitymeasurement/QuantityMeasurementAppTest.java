@@ -5,9 +5,9 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import com.chaman.quantitymeasurement.dto.QuantityDTO;
-import com.chaman.quantitymeasurement.repository.QuantityMeasurementCacheRepository;
-import com.chaman.quantitymeasurement.service.QuantityMeasurementServiceImpl;
+import com.amit.quantitymeasurement.dto.QuantityDTO;
+import com.amit.quantitymeasurement.repository.QuantityMeasurementCacheRepository;
+import com.amit.quantitymeasurement.service.QuantityMeasurementServiceImpl;
 
 public class QuantityMeasurementAppTest {
 
